@@ -1,8 +1,14 @@
 {
     "terminal.integrated.automationShell.osx": "zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "window.zoomLevel": 1,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "FiraCode-Retina",
     "prettier.printWidth": 120,
     "prettier.tabWidth": 4,
     "prettier.singleQuote": true,
@@ -14,7 +20,6 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "editor.fontFamily": "MesloLGS NF",
-    "workbench.colorTheme": "Andromeda Bordered"
+    "workbench.colorTheme": "Material Theme Darker High Contrast"
 }
 
